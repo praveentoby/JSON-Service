@@ -1,16 +1,18 @@
-{
-   "id":1123123,
-   "name":"praveen",
-   "height":6.2,
-   "weight":69,
-   "age":27,
-   "hobby":"cycling"
-},
-{
-   "id":312313,
-   "name":"Naveen",
-   "hieght":5.6,
-   "weight":55,
-   "age":35,
-   "hoddy":"cruising"
-}
+[
+   {
+      "id":1123123,
+      "name":"praveen",
+      "height":6.2,
+      "weight":69,
+      "age":27,
+      "hobby":"cycling"
+   },
+   {
+      "id":312313,
+      "name":"Naveen",
+      "hieght":5.6,
+      "weight":55,
+      "age":35,
+      "hoddy":"cruising"
+   }
+]
